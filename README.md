@@ -14,5 +14,5 @@ your decrypted text.
 - Insert ` or ~ for tab or a linebreak at specific points, respectively
 
 ### READ:
-I do NOT recommend using the local decryptor. Windows console is limited to pasting 4096 characters, so unless you want
+- I do NOT recommend using the local decryptor. Windows console is limited to pasting 4096 characters, so unless you want
 to paste your encrypted text 4096 characters at a time, use input.txt.
